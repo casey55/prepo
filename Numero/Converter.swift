@@ -28,7 +28,7 @@
 
 class Converter {
   func convert(_ number: Int) -> String {
-    return "Ic"
+    return "I"
   }
   
 }
